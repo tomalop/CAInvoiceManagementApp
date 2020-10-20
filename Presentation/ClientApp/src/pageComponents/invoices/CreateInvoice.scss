@@ -1,0 +1,10 @@
+.createInvoice {
+    .input {
+        display: block;
+        margin-bottom: 20px;
+        resize: none;
+        &.logo {
+            resize: initial;
+        }
+    }
+}
